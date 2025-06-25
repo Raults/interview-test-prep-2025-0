@@ -31,4 +31,6 @@ function maxDepth(root: TreeNode | null): number {
     return 1 + Math.max(leftDepth, rightDepth);
 }
 
-console.log ()
+function hasPathSum(root: TreeNode | null, targetSum: number): boolean {
+    
+}
